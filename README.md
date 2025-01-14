@@ -1,6 +1,3 @@
-# Wildlife_Detection
-This project automates the classification of camera trap images using computer vision and machine learning to identify animals and birds. Images are sorted into folders named after the detected species, streamlining data management for wildlife researchers, conservationists, and hobbyists monitoring animals.
-
 # Overview
 This project aims to automate the classification and organization of camera trap images featuring animals and birds. The system utilizes computer vision and machine learning techniques to identify species captured in the images and then moves the files to folders named after the detected species. This workflow streamlines data management for wildlife researchers, conservationists, and hobbyists who use camera traps for animal monitoring.
 
